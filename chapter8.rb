@@ -1,3 +1,5 @@
+# Table of contents printed using arrays to call upon page_numbers and chapter_names
+
 page = 30
 chapter_names = ['Getting Started', 'Numbers', 'Letters']
 page_numbers = ['page 1', 'page 9', 'page 13']
